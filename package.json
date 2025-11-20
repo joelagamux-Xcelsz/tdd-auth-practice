@@ -1,0 +1,15 @@
+{
+  "name": "tdd-login-practice",
+  "version": "1.0.0",
+  "description": "Beginner-friendly TDD practice for login authentication logic",
+  "main": "src/login.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": ["TDD", "login", "authentication", "jest", "react"],
+  "author": "Your Name",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^29.0.0"
+  }
+}
